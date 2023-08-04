@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 <p align="center">
 <p align="center">
   <a href="https://www.linkedin.com/in/mvpelectro/" target="_blank"></a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Gustavo Vargas" height="30" width="40" />
 </p>
-
-<p align="center"><img  height="100" src="https://github.com/Cristian-Trureo/cristian-trureo/blob/main/me2.gif"/></p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
