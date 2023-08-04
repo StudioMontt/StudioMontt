@@ -66,7 +66,10 @@ Here are some ideas to get you started:
 
 ![bottom.png](https://raw.githubusercontent.com/studiomontt/studiomontt/main/footer.png)
 -->
-<div style="position: relative;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=studiomontt&theme=tokyonight" alt="GustavoVargas" style="position: absolute; z-index: 1;">
-  <img src="https://raw.githubusercontent.com/studiomontt/studiomontt/main/footer.png" alt="bottom" style="z-index: 0;">
-</div>
+[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=studiomontt&theme=tokyonight)](#footer)
+
+[//]: # (This is a comment, the next line contains the image link for the footer)
+[![Footer Image](https://raw.githubusercontent.com/studiomontt/studiomontt/main/footer.png)](#footer)
+
+<a name="footer"></a>
+
