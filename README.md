@@ -61,8 +61,12 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </a>
 
-</p>
-
+<!-- </p>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=studiomontt&theme=tokyonight" alt="GustavoVargas" /></p>
 
 ![bottom.png](https://raw.githubusercontent.com/studiomontt/studiomontt/main/footer.png)
+-->
+<div style="position: relative;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=studiomontt&theme=tokyonight" alt="GustavoVargas" style="position: absolute; z-index: 1;">
+  <img src="https://raw.githubusercontent.com/studiomontt/studiomontt/main/footer.png" alt="bottom" style="z-index: 0;">
+</div>
