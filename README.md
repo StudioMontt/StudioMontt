@@ -12,21 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-  table {
-    table-layout: fixed;
-    width: 100%;
-  }
-  td:first-child {
-    width: 70%;
-    vertical-align: top;
-  }
-  td:last-child {
-    width: 30%;
-    vertical-align: bottom;
-  }
-</style>
-
 
 ![head.png](https://raw.githubusercontent.com/studiomontt/studiomontt/main/header.png)
 
@@ -81,8 +66,25 @@ Here are some ideas to get you started:
 
 ![bottom.png](https://raw.githubusercontent.com/studiomontt/studiomontt/main/footer.png)
 -->
-|  |  |
-| --- | --- |
-| [![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=studiomontt&theme=tokyonight)](#) | ![Footer Image](https://raw.githubusercontent.com/studiomontt/studiomontt/main/footer.png) |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=studiomontt&theme=tokyonight" alt="GitHub Stats">
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/studiomontt/studiomontt/main/footer.png" alt="Footer Image">
+</p>
 
+<a name="footer"></a>
+
+<style>
+  p {
+    position: relative;
+    display: inline-block;
+  }
+  img:last-child {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+</style>
