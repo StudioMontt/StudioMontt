@@ -75,16 +75,3 @@ Here are some ideas to get you started:
 </p>
 
 <a name="footer"></a>
-
-<style>
-  p {
-    position: relative;
-    display: inline-block;
-  }
-  img:last-child {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
-</style>
