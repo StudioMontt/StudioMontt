@@ -24,13 +24,14 @@ Here are some ideas to get you started:
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <p align="center">
-  <a href="https://www.linkedin.com/in/mvpelectro/" target="_blank"></a>
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Gustavo Vargas" height="30" width="40" />
+    <a href="https://www.linkedin.com/in/mvpelectro/" target="Linkedin">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Gustavo Vargas" height="30" width="40" />
+    </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -39,7 +40,7 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
-<a href="https://www.java.com/es/" target="_blank" rel="noreferrer">
+<a href="https://dev.java/learn/" target="_blank" rel="noreferrer">
     <img src="https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper-thumbnail.png" alt="java" width="40" height="40"/>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
